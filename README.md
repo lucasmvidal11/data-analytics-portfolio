@@ -18,9 +18,14 @@ over the last 2 years to identify trends, returns and volatility patterns.
 | MS | Morgan Stanley |
 
 ### Key Findings
-- **Highest return:** Goldman Sachs
-- **Most volatile:** Morgan Stanley
-- **Most stable:** JPMorgan Chase
+- **Highest return:** Goldman Sachs (~115%) — best performer over the period
+- **Lowest return:** Bank of America (~47%) — significantly behind peers
+- **Most volatile:** Morgan Stanley — peaked at 4.0% in April 2025
+- **Most stable:** JPMorgan Chase — consistently lowest volatility
+- **Notable event:** All 4 banks showed a sharp volatility spike in 
+  April 2025, likely driven by macro uncertainty (tariff announcements)
+- **Overall trend:** Entire sector delivered strong positive returns, 
+  with Goldman Sachs and Morgan Stanley leading at ~115% and ~111%
 
 ### Tools Used
 Python · Pandas · Matplotlib · yfinance · Google Colab
