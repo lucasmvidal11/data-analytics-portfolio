@@ -20,6 +20,6 @@ Give Me Some Credit — Kaggle Competition (2011)
 Python · Pandas · Scikit-learn · Matplotlib · Seaborn · Google Colab
 
 ### Visualizations
-![Default Distribution](project-2-credit-risk/default_distribution.png)
-![Risk Factors](project-2-credit-risk/risk_factors.png)
-![Feature Importance](project-2-credit-risk/feature_importance.png)
+![Default Distribution](default_distribution.png)
+![Risk Factors](risk_factors.png)
+![Feature Importance](feature_importance.png)
