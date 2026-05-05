@@ -5,9 +5,7 @@ Build an interactive financial dashboard to monitor and compare
 the performance of major US banks over the last 12 months.
 
 ### Live Dashboard
-🔗 [View Live Dashboard](https://[tu-usuario].github.io/
-data-analytics-portfolio/project-3-financial-dashboard/
-financial_dashboard.html)
+🔗 [View Live Dashboard](https://lucasmvidal11.github.io/data-analytics-portfolio/project-3-financial-dashboard/financial_dashboard.html)
 
 ### KPIs Tracked
 - Current stock price
