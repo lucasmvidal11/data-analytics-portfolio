@@ -43,9 +43,12 @@ Give Me Some Credit — Kaggle
 150,000 real borrower records with 10 financial variables
 
 ### Key Findings
-- Default rate in the dataset: [resultado real de tu Celda 2]
-- Most predictive factor: [resultado real de tu Celda 7]
-- Model accuracy: [resultado real de tu Celda 6]
+- **Default rate in the dataset:** 6.7%
+- **Most predictive factor:** Revolving Utilization of Unsecured Lines (0.224)
+- **2nd most predictive:** Debt Ratio (0.201)
+- **Key insight:** Clients who defaulted had on average 2.1x more 90-day 
+  late payments than non-defaulting clients
+- **Age pattern:** Default risk is more concentrated between ages 30-55
 
 ### Tools Used
 Python · Pandas · Scikit-learn · Matplotlib · Seaborn · Google Colab
