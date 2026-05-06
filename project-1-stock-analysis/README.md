@@ -1,4 +1,4 @@
-# 📊 Financial Data Analytics Portfolio
+# Financial Data Analytics Portfolio
 **Lucas Mesa Vidal** | Business Administration Student | HKA Karlsruhe
 
 ---
