@@ -27,6 +27,7 @@ including Argentina and Brazil.
 - **Argentina:** ~2,100 SAP customers with 31% cloud adoption — 
   significant growth potential vs Brazil (45%)
 - **Competitive position:** SAP operates in an ecosystem dominated by Microsoft, whose market capitalization ($3,075.1 billion) is approximately 5.5 times greater than Oracle’s ($558 billion), generating revenue of $318.3 billion with robust gross margins exceeding 68%.
+- **Long-Term Performance**: A surprising fact is that Oracle has significantly outperformed Microsoft in terms of 5-year returns (158.2% versus 70.9%), suggesting that the market has more aggressively rewarded Oracle’s recent growth or its shift toward the cloud.
 
 ### Tools Used
 Python · Pandas · Plotly · yfinance · GitHub Pages · Google Colab
