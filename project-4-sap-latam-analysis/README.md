@@ -26,7 +26,7 @@ including Argentina and Brazil.
   Argentina and Brazil — strongest position in the region
 - **Argentina:** ~2,100 SAP customers with 31% cloud adoption — 
   significant growth potential vs Brazil (45%)
-- **Competitive position:** [resultado real de tu Celda 7]
+- **Competitive position:** SAP operates in an ecosystem dominated by Microsoft, whose market capitalization ($3,075.1 billion) is approximately 5.5 times greater than Oracle’s ($558 billion), generating revenue of $318.3 billion with robust gross margins exceeding 68%.
 
 ### Tools Used
 Python · Pandas · Plotly · yfinance · GitHub Pages · Google Colab
