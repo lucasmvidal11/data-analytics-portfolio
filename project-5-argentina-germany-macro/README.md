@@ -12,11 +12,9 @@ I have experienced living in both realities. Not just as an
 economist — but as someone who has seen both sides firsthand.
 
 ### Key Findings
-- **Inflation:** Argentina's average inflation (2004–2023) was 
-  [resultado real]x higher than Germany's
-- **GDP per Capita:** Germany's GDP per capita is approximately 
-  [resultado real]x Argentina's in 2023
-- **Unemployment:** [resultado real]
+- **Inflation:** Argentina's average inflation (2004–2023) was 32.5x higher than Germany's
+- **GDP per Capita:** Germany's GDP per capita is approximately 3.8x Argentina's in 2023
+- **Unemployment:** In 2023, both countries reached their minimum historical levels within the 2004–2023 period (6.14% for Argentina and 3.07% for Germany).
 - **Most striking contrast:** [lo que más te llame la atención 
   de los datos]
 
