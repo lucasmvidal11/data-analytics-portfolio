@@ -7,6 +7,18 @@ devaluations and economic crises are part of everyday life.
 Today I study and live in Karlsruhe, Germany — one of the most 
 stable economies in the world.
 
+### Methodology & Data Notes
+- **Period:** 2004–2023. Start year selected to capture Argentina's 
+  post-default recovery cycle. End year reflects latest complete 
+  verified data from the World Bank API.
+- **Data source:** World Bank Open Data — all indicators are 
+  internationally comparable and methodology-consistent across 
+  both countries.
+- **Note on Argentina's inflation:** Official INDEC data used 
+  pre-2007 and post-2016. The 2007-2015 period is subject to 
+  known measurement controversies — results should be interpreted 
+  with caution for that subperiod.
+
 This project is my attempt to quantify, with real data, what 
 I have experienced living in both realities. Not just as an 
 economist — but as someone who has seen both sides firsthand.
