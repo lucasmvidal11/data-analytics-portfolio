@@ -15,8 +15,7 @@ economist — but as someone who has seen both sides firsthand.
 - **Inflation:** Argentina's average inflation (2004–2023) was 32.5x higher than Germany's
 - **GDP per Capita:** Germany's GDP per capita is approximately 3.8x Argentina's in 2023
 - **Unemployment:** In 2023, both countries reached their minimum historical levels within the 2004–2023 period (6.14% for Argentina and 3.07% for Germany).
-- **Most striking contrast:** [lo que más te llame la atención 
-  de los datos]
+- **Most striking contrast:** What is most striking is Argentina’s extreme volatility compared to Germany’s stability. While Germany maintains an extremely low average inflation rate (1.97%), Argentina not only has an extremely high average (64.03%), but its most recent figure (133.49%) is more than double its own average, indicating aggressive inflationary acceleration against a backdrop of negative GDP growth (-1.86%).
 
 ### Data Sources
 World Bank Open Data API — all data publicly available
