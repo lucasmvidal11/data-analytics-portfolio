@@ -1,4 +1,4 @@
-## Project 5 — Argentina 🇦🇷 vs Germany 🇩🇪: A Personal Macro Analysis
+## Project 5 — Argentina vs Germany: A Personal Macro Analysis
 
 ### The Story Behind This Project
 I grew up in Santa Fe, Argentina — a city of 500,000 people on the 
@@ -27,6 +27,4 @@ World Bank Open Data API — all data publicly available
 Python · Pandas · Plotly · wbdata · GitHub Pages · Google Colab
 
 ### Live Dashboard
-🔗 [View Interactive Dashboard](https://lucasmvidal11.github.io/
-data-analytics-portfolio/project-5-argentina-germany-macro/
-macro_dashboard.html)
+🔗 [View Interactive Dashboard](https://lucasmvidal11.github.io/data-analytics-portfolio/project-5-argentina-germany-macro/macro_dashboard.html)
