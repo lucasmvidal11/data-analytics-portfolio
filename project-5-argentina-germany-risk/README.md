@@ -98,6 +98,6 @@ argentina-germany-risk-analysis/
 ## Author
 
 **Lucas Mesa Vidal**  
-Double Degree BSc Business Administration — Hochschule Karlsruhe & Universidad Nacional del Litoral  
+Double Degree BSc International Management — Hochschule Karlsruhe & Universidad Nacional del Litoral  
 Specialization: Finance & Data Analytics  
 [LinkedIn](https://linkedin.com/in/lucasmesavidal) · [Portfolio](https://lucasmvidal11.github.io/data-analytics-portfolio)
