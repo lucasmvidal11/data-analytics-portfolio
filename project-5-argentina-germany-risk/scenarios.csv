@@ -1,0 +1,13 @@
+country,year,scenario,risk_index
+Argentina,2024,Optimistisch,38.74
+Argentina,2025,Optimistisch,26.71
+Argentina,2026,Optimistisch,18.81
+Argentina,2027,Optimistisch,13.27
+Argentina,2024,Basisszenario,67.4
+Argentina,2025,Basisszenario,45.46
+Argentina,2026,Basisszenario,35.49
+Argentina,2027,Basisszenario,29.95
+Argentina,2024,Pessimistisch,100.99
+Argentina,2025,Pessimistisch,98.69
+Argentina,2026,Pessimistisch,87.82
+Argentina,2027,Pessimistisch,75.34
