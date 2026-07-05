@@ -50,6 +50,7 @@ combining stock performance, KPI analysis, and sector scoring.
 ---
 
 ## Project Structure
+```
 dax40-financial-analysis/
 ├── data/
 │   ├── dax_prices.csv              # Daily stock prices 2019–2024
@@ -62,6 +63,7 @@ dax40-financial-analysis/
 │   ├── 02_sector_analysis.ipynb    # Benchmarking + KPI dashboard
 │   └── 03_insights_recommendation.ipynb  # Executive summary + visuals
 └── outputs/
+```
 
 ## Tech Stack
 
