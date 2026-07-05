@@ -1,0 +1,4 @@
+scenario,enterprise_value,equity_value,price_per_share,pv_fcfs,pv_terminal
+Bull,4584.0,3164.0,95.0,1016.0,3568.0
+Base,3375.0,1955.0,58.7,781.0,2594.0
+Bear,2381.0,961.0,28.9,576.0,1805.0
