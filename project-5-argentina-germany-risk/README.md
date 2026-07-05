@@ -76,6 +76,7 @@ across the full dataset (all countries, all years).
 ---
 
 ## Project Structure
+```
 argentina-germany-risk-analysis/
 ├── data/
 │   ├── world_bank_raw.csv      # Cleaned macroeconomic dataset (4 countries, 2004–2023)
@@ -86,6 +87,7 @@ argentina-germany-risk-analysis/
 │   ├── 02_risk_index.ipynb     # Risk index construction and visualization
 │   └── 03_scenarios_recommendation.ipynb  # Scenario analysis + recommendation matrix
 └── outputs/                    # Generated charts and reports
+```
 
 ## Tech Stack
 
