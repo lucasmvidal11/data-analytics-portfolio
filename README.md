@@ -118,7 +118,7 @@ by deep Latin American market knowledge.**
 ## About Me
 
 **Lucas Mesa Vidal**  
-22 years old | Argentine | Based in Karlsruhe, Germany
+24 years old | Argentine | Based in Karlsruhe, Germany
 
 Double Degree BSc International Management  
 Hochschule Karlsruhe (HKA) & Universidad Nacional del Litoral (UNL)  
