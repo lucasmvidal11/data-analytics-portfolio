@@ -1,0 +1,3 @@
+model,auc,default_recall,default_precision,accuracy
+Baseline RF,0.9121,0.6561,0.9569,0.9185
+Inflation-Adjusted RF,0.8968,0.5837,0.9573,0.9035

@@ -1,0 +1,3 @@
+model,auc
+Baseline RF,0.9121
+Inflation-Adjusted RF,0.8973
