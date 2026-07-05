@@ -48,6 +48,7 @@ Risk-adjusted opportunity = Addressable market × (1 − Risk Index / 100)
 ---
 
 ## Project Structure
+```
 sap-latam-analysis/
 ├── data/
 │   ├── prices.csv                  # Daily stock prices 2019–2024
@@ -64,6 +65,8 @@ sap-latam-analysis/
 │   ├── 04_latam_opportunity.ipynb  # Latam market sizing + risk adjustment
 │   └── 05_recommendation.ipynb    # Investment thesis + final dashboard
 └── outputs/
+```
+
 ## Investment Thesis
 
 SAP is currently **discounted on revenue multiples** relative to peers, reflecting 
