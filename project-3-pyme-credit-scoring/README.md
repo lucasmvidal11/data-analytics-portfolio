@@ -86,6 +86,7 @@ Based on the findings, a German bank or fintech expanding into Argentina should:
 ---
 
 ## Project Structure
+```
 pyme-credit-scoring-argentina/
 ├── data/
 │   ├── credit_risk_raw.csv          # Original Kaggle dataset
@@ -101,6 +102,7 @@ pyme-credit-scoring-argentina/
 └── outputs/
 ├── rf_baseline.pkl              # Saved baseline model
 └── rf_adjusted.pkl              # Saved adjusted model
+```
 
 ## Tech Stack
 
