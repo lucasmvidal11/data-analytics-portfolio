@@ -81,6 +81,8 @@ used to risk-adjust Gerresheimer's Latam revenue exposure.
 ---
 
 ## Project Structure
+
+```
 gerresheimer-due-diligence/
 ├── data/
 │   ├── prices.csv                  # Stock prices 2019–2024
@@ -99,6 +101,7 @@ gerresheimer-due-diligence/
 │   ├── 04_risk_assessment.ipynb    # Risk framework + Latam exposure
 │   └── 05_investment_recommendation.ipynb  # Final recommendation
 └── outputs/
+```
 
 ## Tech Stack
 
